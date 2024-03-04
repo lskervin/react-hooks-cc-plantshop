@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Hydrangea Shrub",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8eVjVMJQqqoH2K67-13LKyOwp72Xz1LdXrpKPNoVGkdL-9x3JUNFy0oTuLLg5uYehHxlQQkdt-jIGiTOZqC8EMSFDwrcEnaDxS6JCC0_2_jRsoDIci4ZdGsUk",
+      "price": "31.25",
+      "id": 8
     }
   ]
 }
